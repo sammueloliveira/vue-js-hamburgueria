@@ -7,6 +7,6 @@ Tela de Pedidos: Exibe os pedidos realizados com detalhes dos ingredientes escol
 Vue Router: Navegação entre a página de montagem do hambúrguer e a tela de pedidos.
 json-server: Simulação de um backend RESTful, permitindo persistir os dados de ingredientes e pedidos.
 ## Tecnologias Utilizadas
-Vue 3
-Vue Router
+Vue 3,
+Vue Router,
 json-server (para simulação de backend RESTful com dados em JSON)
